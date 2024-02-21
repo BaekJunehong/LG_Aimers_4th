@@ -61,6 +61,7 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
    -> 개별모델들에 여러 조합들을 시도하며 모델성능을 올리려는 작업을 진행
    -> 결과론적으로는 개별모델 Light_GBM_dart 모델이 좋은 성능을 나타내 이 모델을 채택
 
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/34fabd25-52cc-47c5-99ee-9d1d6877c780)
 
 
 
