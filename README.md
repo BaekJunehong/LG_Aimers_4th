@@ -62,7 +62,7 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
   * 결과론적으로는 개별모델 Light_GBM_dart 모델이 좋은 성능을 나타내 이 모델을 채택
 
 ## 3. 프로젝트 결과
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/81e7c7e7-c62c-4e42-a18f-63d045af4172)  
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/942e9b62-78b6-4db0-a354-57341a451f20)
 
 베이스라인 0.52 수준을 넘으면서 수료하였습니다.
 
