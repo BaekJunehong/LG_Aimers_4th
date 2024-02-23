@@ -53,16 +53,13 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
 1) Optuna
   * 전반적인 분류모델에 대하여 Optuna를 이용하여 모델에 대한 하이퍼 파라미터를 찾음
 
-3) Voting & Stacking
+2) Voting & Stacking
   * 개별 모델들에 대해서 Voting 과 Stacking 기법을 이용하여 성능을 극대화 시키려는 작업을 진행
   * 성능 비교과정을 통해 최적의 모델을 찾는 과정을 진행
 
-5) XGBoost
-  * 개별모델들에 여러 조합들을 시도하며 모델성능을 올리려는 작업을 진행
-  * 결과론적으로는 개별모델 XGBoost 모델이 좋은 성능을 나타내 이 모델을 채택
-
 ## 3. 프로젝트 결과
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/942e9b62-78b6-4db0-a354-57341a451f20)
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/17f5733d-d004-4ca6-8358-0ff852b303a0)
+
 
 베이스라인 0.52 수준을 넘으면서 수료하였습니다.
 
