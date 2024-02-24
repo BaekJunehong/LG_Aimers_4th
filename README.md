@@ -58,7 +58,8 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
   * 성능 비교과정을 통해 최적의 모델을 찾는 과정을 진행
 
 ## 3. 프로젝트 결과
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/17f5733d-d004-4ca6-8358-0ff852b303a0)
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/ca947c56-8416-4caa-824b-7bdfdbc4bbaa)
+
 
 
 베이스라인 0.52 수준을 넘으면서 수료하였습니다.
