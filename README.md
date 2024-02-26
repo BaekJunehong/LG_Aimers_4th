@@ -63,10 +63,7 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
 ![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/7bd0607c-21d7-4ccd-b88d-dbb364ba952f)
 ![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/2534857e-1e8b-4abe-84d5-5fddaa9f5d71)
 
-
-
-
-베이스라인 0.52 수준을 넘으면서 수료하였습니다.
+Final 점수기준으로 30등(팀) 까지 본선에 진출하였는데 결과적으로 64등을 하면서 본선까지의 여정은 이어나가지 못하고 마무리 하게 되었습니다.  
 
 
 
