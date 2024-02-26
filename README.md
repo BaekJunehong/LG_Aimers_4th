@@ -57,9 +57,12 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
   * 개별 모델들에 대해서 Voting 과 Stacking 기법을 이용하여 성능을 극대화 시키려는 작업을 진행
   * 성능 비교과정을 통해 최적의 모델을 찾는 과정을 진행
 
+최종모델로는 LightGBM, XGBoost, RandomForest, ExtraTree 모델들을 Soft Voting 기법을 이용하여 모델링을 진행하였고 예측된 결과에 대해서 cutoff-value 값을 조절하여 조금더 True 값을 더 잘 예측할수 있도록 모델링을 하였습니다.
+
 ## 3. 프로젝트 결과
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/d06841cf-71ee-4fb2-b0b4-ee3a7c61d4bd)
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/9600de09-d094-4859-843c-92242eee9df5)
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/7bd0607c-21d7-4ccd-b88d-dbb364ba952f)
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/2534857e-1e8b-4abe-84d5-5fddaa9f5d71)
+
 
 
 
