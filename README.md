@@ -61,8 +61,8 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
 최종모델로는 LightGBM, XGBoost, RandomForest, ExtraTree 모델들을 Soft Voting 기법을 이용하여 모델링을 진행하였고 예측된 결과에 대해서 cutoff-value 값을 조절하여 조금더 True 값을 더 잘 예측할수 있도록 모델링을 하였습니다.
 
 ## 3. 프로젝트 결과
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/7bd0607c-21d7-4ccd-b88d-dbb364ba952f)
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/2534857e-1e8b-4abe-84d5-5fddaa9f5d71)
+<img src="https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/7bd0607c-21d7-4ccd-b88d-dbb364ba952f" alt="image" width="600" height="400">
+<img src="https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/2534857e-1e8b-4abe-84d5-5fddaa9f5d71" alt="image" width="600" height="400">
 
 Final 점수기준으로 30등(팀) 까지 본선에 진출하였는데 결과적으로 64등을 하면서 본선까지의 여정은 이어나가지 못하고 마무리 하게 되었습니다.  
 
