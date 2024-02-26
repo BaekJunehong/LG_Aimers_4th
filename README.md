@@ -1,5 +1,6 @@
 # LG_Aimers_Hackathon  
 
+### LG Aimers 4th
 ![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/8f923c8d-a8ac-4028-9c85-01062742610e)
 
 ## 0. 개요
@@ -57,14 +58,22 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
   * 개별 모델들에 대해서 Voting 과 Stacking 기법을 이용하여 성능을 극대화 시키려는 작업을 진행
   * 성능 비교과정을 통해 최적의 모델을 찾는 과정을 진행
 
+최종모델로는 LightGBM, XGBoost, RandomForest, ExtraTree 모델들을 Soft Voting 기법을 이용하여 모델링을 진행하였고 예측된 결과에 대해서 cutoff-value 값을 조절하여 조금더 True 값을 더 잘 예측할수 있도록 모델링을 하였습니다.
+
 ## 3. 프로젝트 결과
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/ca947c56-8416-4caa-824b-7bdfdbc4bbaa)
+<img src="https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/7bd0607c-21d7-4ccd-b88d-dbb364ba952f" alt="image" width="500" height="280">
+<img src="https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/2534857e-1e8b-4abe-84d5-5fddaa9f5d71" alt="image" width="500" height="280">
 
+Final 점수기준으로 30등(팀) 까지 본선에 진출하였는데 결과적으로 64등을 하면서 본선까지의 여정은 이어나가지 못하고 마무리 하게 되었습니다.  
 
+## 4. 맺음글  
+이전까지는 정제되어 있는 데이터를 이용하여 전처리를 진행하였었는데 이번 기회에 실무적인 데이터를 접하면서 상대적으로 날것의 데이터를 다루며 초반에는 당황을 하며 진행하였던거 같습니다.  
 
-베이스라인 0.52 수준을 넘으면서 수료하였습니다.
+각 변수별로 결측값이 없는 변수들도 있는 반면에 때로는 결측값이 대부분인 변수들을 접하며 어떻게 처리를 할지에 대해서 많은 고민들을 했었고 훈련데이터의 타겟변수의 값의 비율을 통한 범주화의 방법을 이번 대회를 통해 겪으면서 이러한 방법을 활용할수도 있다는 것을 알게되며 때로는 신선한 충격이었던거 같습니다.  
 
+모델링 부분에서는 전처리에 대한 힘을 많이 들인것에 대비하여 좋은 성능을 내지 못하는 부분에 있어 조금은 좌절감을 느끼기도 했지만 모델링을 진행하면서 cutoff-value를 조절할는 방안에 대해서 고려하게 되면서 어느정도 만족스러운 성능값을 나오는 부분에서 성취감을 느꼈던거 같습니다.  
 
+비록 본선에는 진출하지는 못하였지만 나름의 성장할수 있는 기회의 장이였다 생각이 들며 여러번의 전처리 방법들의 변경과 여러 모델링 기법들을 활용해 보면서 많은 공부를 하며 배울수 있는 시간이었다고 생각합니다. 
 
 
 
