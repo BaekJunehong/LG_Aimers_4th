@@ -1,5 +1,6 @@
 # LG_Aimers_Hackathon  
 
+LG Aimers 4th
 ![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/8f923c8d-a8ac-4028-9c85-01062742610e)
 
 ## 0. 개요
