@@ -58,7 +58,8 @@ LG Aimers에서 주관한 프로그램으로서 1달간의 온라인교육기간
   * 성능 비교과정을 통해 최적의 모델을 찾는 과정을 진행
 
 ## 3. 프로젝트 결과
-![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/ca947c56-8416-4caa-824b-7bdfdbc4bbaa)
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/d06841cf-71ee-4fb2-b0b4-ee3a7c61d4bd)
+![image](https://github.com/BaekJunehong/LG_Aimers_Hackathon/assets/101456289/9600de09-d094-4859-843c-92242eee9df5)
 
 
 
