@@ -180,7 +180,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 13218,0.25,/ Yogyakarta  / Indonesia,AS,,1649,Specifier/ Influencer,Enterprise,,,,,engineering,3,,,,,/ Yogyakarta  / Indonesia,ceo/founder,LGEIN,,0,0,,,,,670,0
 14177,0.25,Rua Rui Barbosa n 1095 bairro Goiabeiras Mato Grosso  / Cuiabá/MT / Brazil,AS,,18637,Specifier/ Influencer,SMB,,,,,engineering,3,,,,,Rua Rui Barbosa n 1095 bairro Goiabeiras Mato Grosso  / Cuiabá/MT / Brazil,director,LGESP,,0,0,,,,,97,0
 12804,0.75,"/ Badung, Kuta Selatan / Indonesia",AS,,32924,End Customer,SMB,,,,,engineering,8,,vrf,,,"/ Badung, Kuta Selatan / Indonesia",manager,LGEIN,3 months ~ 6 months,0,0,,,,,670,1
-19157,1.0,/ UK / United Kingdom,IT,0.2307692307692307,1781,Channel Partner,SMB,,,,,administrative,9,Request a Demo,projector,,,/ UK / United Kingdom,director,LGEUK,less than 3 months,0,0,6.044033666058328e-05,,hospital & health care,Clinic,431,1
+19157,1.0,/ UK / United Kingdom,IT,0.2307692307692307,1781,Channel Partner,SMB,,,,,administrative,9,Request a Demo,projector,,,/ UK / United Kingdom,director,LGEUK,less than 3 months,0,0,6.044033666058328e-05,,hospital & health care,Clinic,431,0
 9737,0.25,263 Seaboard Lane  Cloud IT / Franklin / United States,IT,,40106,End Customer,SMB,,,,,,23,Quotation or Purchase Consultation,,,,263 Seaboard Lane  Cloud IT / Franklin / United States,none,LGEUS,,0,0,1.2765902883450302e-05,,transportation,Others,437,1
 8065,1.0,/  / Saudi Arabia,ID,0.043103448275862,3725,End Customer,SMB,,,,,information technology,131,Quotation or Purchase Consultation,oled signage,,,/  / Saudi Arabia,manager,LGESJ,3 months ~ 6 months,0,0,0.0005432224318428,0.0640703517587939,special purpose,,209,0
 2726,1.0,/  / South Africa,ID,,9411,End Customer,Enterprise,,,,,purchasing,27,Quotation or Purchase Consultation,oled signage,,,/  / South Africa,manager,LGESA,3 months ~ 6 months,0,0,,,,,151,1
@@ -540,7 +540,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 19683,0.75,/  / Peru,ID,0.0732484076433121,15905,,Enterprise,,,,,sales,35,Others,,,,/  / Peru,none,LGEPR,9 months ~ 1 year,0,0,0.0011827288932506,0.0498402555910543,retail,,258,0
 8289,0.25,/  / Australia,ID,0.2142857142857142,39968,End Customer,SMB,,,,,program and project management,7,,,,,/  / Australia,director,LGEAP,,1,0,0.0005719551277132,0.048629531388152,education,,156,1
 11973,0.0,/  / Brazil,ID,,4936,,Enterprise,,,,,others,3,,,,,/  / Brazil,none,LGESP,,0,0,,,,,316,0
-10847,0.0,/  / Brazil,ID,0.0749486652977412,43186,End Customer,Enterprise,,1.0,,1.0,administrative,103,,,,,/  / Brazil,none,LGESP,,1,0,0.0030792876608617,0.0645661157024793,corporate / office,Others,342,1
+10847,0.0,/  / Brazil,ID,0.0749486652977412,43186,End Customer,Enterprise,,1.0,,1.0,administrative,103,,,,,/  / Brazil,none,LGESP,,1,0,0.0030792876608617,0.0645661157024793,corporate / office,Others,342,0
 14116,0.25,/ Recife - Pernambuco  / Brazil,AS,,22222,,Enterprise,,,,,entrepreneurship,3,,,,,/ Recife - Pernambuco  / Brazil,entry level,LGESP,,0,0,,,,,97,0
 18160,0.0,/  / Peru,ID,0.0327868852459016,16780,,SMB,,,,,education,3,,,,,/  / Peru,none,LGEPR,,0,0,0.0005719551277132,0.048629531388152,education,Higher Education (College & University),258,0
 4468,0.25,/ Delhi / India,AS,,47466,End Customer,Enterprise,19.0,,,,,40,Quotation or Purchase Consultation,vrf,,,/ Delhi / India,none,LGEIL,,0,0,,,,,115,0
@@ -875,7 +875,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 1266,0.25,Cloud IT / New York / United States,IT,0.0434782608695652,27795,End Customer,Enterprise,,,1.0,1.0,,71,Quotation or Purchase Consultation,,,,Cloud IT / New York / United States,none,LGEUS,,1,0,0.0030792876608617,,corporate / office,IT/Software,435,0
 10011,0.25,//United States,IT,,9324,Solution Eco-Partner,Enterprise,,,,,,117,Quotation or Purchase Consultation,,,,//United States,none,LGEUS,,0,0,1.2765902883450302e-05,,transportation,Others,375,1
 9258,0.25,/ Denver / United States,ID,,4378,,Enterprise,,1.0,,1.0,,149,Quotation or Purchase Consultation,,Digital Signage or Commercial TVs,,/ Denver / United States,none,LGEUS,,0,0,0.0007167734380046,0.071345029239766,hotel & accommodation,,205,0
-4818,0.25,/Delhi/India,AS,,10779,Specifier/ Influencer,Enterprise,,,,,administrative,3,Quotation or Purchase Consultation,,,,/Delhi/India,none,LGEIL,,0,0,,,,,608,1
+4818,0.25,/Delhi/India,AS,,10779,Specifier/ Influencer,Enterprise,,,,,administrative,3,Quotation or Purchase Consultation,,,,/Delhi/India,none,LGEIL,,0,0,,,,,608,0
 2293,1.0,/  / South Africa,ID,,113,End Customer,SMB,,,,,marketing,100,Quotation or Purchase Consultation,video wall signage,,,/  / South Africa,manager,LGESA,6 months ~ 9 months,0,0,,,,,151,1
 21263,0.75,/  / Chile,ID,0.0422535211267605,9722,,SMB,,,,,administrative,3,Quotation or Purchase Consultation,,,,/  / Chile,none,LGECL,more than a year,0,0,2.5889552307882245e-05,0.031578947368421,public facility,Outdoor Advertisement,357,0
 4429,0.25,/ Lucknow  / India,AS,,47466,End Customer,Enterprise,19.0,,,,,51,Quotation or Purchase Consultation,vrf,,,/ Lucknow  / India,none,LGEIL,,0,0,,,,,22,0
@@ -1082,7 +1082,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 17169,0.75,/ Cali / Colombia,AS,,3656,Specifier/ Influencer,Enterprise,,,,,engineering,3,,vrf,,,/ Cali / Colombia,manager,LGECB,less than 3 months,0,0,,,,,962,0
 5142,0.5,/ São Paulo / Brazil,AS,,25633,,Enterprise,,,,,marketing,3,Quotation or Purchase Consultation,multi-split,,,/ São Paulo / Brazil,others,LGESP,,0,0,,,,,97,0
 12682,0.75,/Arequipa/Peru,AS,,1820,,Enterprise,,,,,engineering,3,,vrf,,,/Arequipa/Peru,entry level,LGEPR,more than a year,0,0,,,,,125,0
-7431,1.0,//U.A.E,AS,,28572,End Customer,SMB,16.0,,,,engineering,29,Quotation or Purchase Consultation,etc.,,,//U.A.E,manager,LGEGF,3 months ~ 6 months,0,0,,,,,78,1
+7431,1.0,//U.A.E,AS,,28572,End Customer,SMB,16.0,,,,engineering,29,Quotation or Purchase Consultation,etc.,,,//U.A.E,manager,LGEGF,3 months ~ 6 months,0,0,,,,,78,0
 14929,0.25,/ กทม / Thailand,AS,,47314,End Customer,Enterprise,115.0,,,,,33,Quotation or Purchase Consultation,etc.,,,/ กทม / Thailand,none,LGETH,,0,0,,,,,744,1
 11041,1.0,/ Ciudad de mexico / Mexico,ID,0.0749486652977412,22321,Channel Partner,SMB,,1.0,,1.0,engineering,65,Quotation or Purchase Consultation,standard signage,UH5F-H Series,98UH5F-H,/ Ciudad de mexico / Mexico,manager,LGEMS,less than 3 months,0,1,0.0030792876608617,0.0645661157024793,corporate / office,Construction,263,0
 19011,1.0,/ Mato Grosso - Alta Floresta / Brazil,AS,0.0681818181818181,3649,End Customer,Enterprise,,,,,healthcare services,184,Quotation or Purchase Consultation,vrf,,,/ Mato Grosso - Alta Floresta / Brazil,director,LGESP,more than a year,0,0,6.044033666058328e-05,0.1285714285714285,hospital & health care,Clinic,680,1
@@ -1227,7 +1227,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 6571,0.25,/ Beograd  / Serbia,AS,,21873,End Customer,Enterprise,,,,,,14,,heating,,,/ Beograd  / Serbia,others,LGEMK,,0,0,,,,,766,0
 10765,1.0,/ 32257 Bünde / Germany,ID,0.0199004975124378,12356,Channel Partner,SMB,1.0,1.0,,1.0,administrative,455,Request for Partnership,standard signage,UL3G Series,43UL3G-B,/ 32257 Bünde / Germany,others,LGEDG,3 months ~ 6 months,0,1,0.0030792876608617,0.0645661157024793,corporate / office,Advertising,326,1
 8199,1.0,/  / Vietnam,ID,0.2142857142857142,30020,,Enterprise,,,,,entrepreneurship,19,Quotation or Purchase Consultation,interactive signage,Curvable OLED Signage,55EF5F-L,/  / Vietnam,vice president,LGEVH,less than 3 months,0,0,0.0005719551277132,0.048629531388152,education,,866,0
-7898,0.0,Medical / Worcester / United States,IT,,43721,,SMB,,,,,,157,,,,,Medical / Worcester / United States,none,LGEUS,,0,0,,,,,435,0
+7898,0.0,Medical / Worcester / United States,IT,,43721,,SMB,,,,,,157,,,,,Medical / Worcester / United States,none,LGEUS,,0,0,,,,,435,1
 1877,1.0,/ Barmer / India,ID,,24136,,SMB,,,,,education,27,Quotation or Purchase Consultation,interactive signage,,,/ Barmer / India,entry level,LGEIL,less than 3 months,0,0,,,,,174,0
 876,0.25,Corporate /  /,ID,0.0446428571428571,19216,End Customer,SMB,,1.0,,1.0,,309,Quotation or Purchase Consultation,,,,Corporate /  /,none,LGEUS,,1,0,0.0030792876608617,0.0645661157024793,corporate / office,Others,194,0
 12639,1.0,Hà Nội   /  / Vietnam,AS,,10987,,SMB,,,,,engineering,3,Quotation or Purchase Consultation,vrf,,,Hà Nội   /  / Vietnam,others,LGEVH,less than 3 months,0,0,,,,,963,1
@@ -1524,7 +1524,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 17325,0.75,/ Ecatepec de Morelos / Mexico,AS,,9139,Specifier/ Influencer,Enterprise,0.0,,,,engineering,3,,vrf,,,/ Ecatepec de Morelos / Mexico,director,LGEMS,more than a year,0,0,,,,,42,0
 5925,0.5,/ São Paulo / Brazil,AS,,7496,,Enterprise,,,,,others,3,Quotation or Purchase Consultation,multi-split,,,/ São Paulo / Brazil,others,LGESP,,0,0,,,,,97,0
 9412,0.75,/ Pune / India,ID,0.036036036036036,41707,Solution Eco-Partner,SMB,,,,,consulting,136,Quotation or Purchase Consultation,high brightness signage,Outdoor Display,22XE1J-B,/ Pune / India,director,LGEIL,less than 3 months,0,0,0.0002153634176709,0.0609243697478991,factory,Manufacturing Factory / Plant,148,1
-12508,0.75,/ Bangkok / Thailand,AS,,23815,End Customer,Enterprise,,,,,real estate,16,,,,,/ Bangkok / Thailand,c-level executive,LGETH,less than 3 months,0,0,,,,,748,1
+12508,0.75,/ Bangkok / Thailand,AS,,23815,End Customer,Enterprise,,,,,real estate,16,,,,,/ Bangkok / Thailand,c-level executive,LGETH,less than 3 months,0,0,,,,,748,0
 19809,0.25,/  / Brazil,ID,0.0732484076433121,869,End Customer,SMB,51.0,,,,operations,3,,,,,/  / Brazil,director,LGESP,,1,0,0.0011827288932506,0.0498402555910543,retail,Other Stores,278,1
 9286,0.25,/ Anglet / France,ID,0.0169491525423728,6936,Service Partner,Enterprise,,1.0,,1.0,others,324,Quotation or Purchase Consultation,pro:centric,Pro:Centric Direct,,/ Anglet / France,none,LGEFS,,0,0,0.0007167734380046,0.071345029239766,hotel & accommodation,,931,0
 8724,0.25,/ Kolkata / India,AS,0.0677966101694915,11549,End Customer,Enterprise,19.0,,,,,40,Quotation or Purchase Consultation,vrf,,,/ Kolkata / India,none,LGEIL,,0,0,0.0002983104051378,0.0201207243460764,residential (home),Apartment,2,1
@@ -1682,7 +1682,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 15776,0.0,/  / Germany,AS,,14497,,SMB,,,,,operations,3,,,,,/  / Germany,none,LGEDG,,0,0,,,,,126,0
 20318,0.75,/  /,ID,0.1241217798594847,14415,,Enterprise,,1.0,,1.0,purchasing,3,Quotation or Purchase Consultation,,,,/  /,none,LGEPS,less than 3 months,0,0,0.0007167734380046,0.071345029239766,hotel & accommodation,,238,0
 19920,0.25,/  / China,ID,0.1184210526315789,38225,Channel Partner,SMB,,,,,,3,,led signage,,,/  / China,manager,LGECH,,0,1,0.0011827288932506,0.0498402555910543,retail,,379,0
-11052,1.0,/ HERMOSILLO / Mexico,ID,0.0749486652977412,1712,Specifier/ Influencer,Enterprise,,1.0,,1.0,business development,91,Quotation or Purchase Consultation,oled signage,Transparent OLED Signage,,/ HERMOSILLO / Mexico,director,LGEMS,3 months ~ 6 months,0,1,0.0030792876608617,0.0645661157024793,corporate / office,Engineering,188,1
+11052,1.0,/ HERMOSILLO / Mexico,ID,0.0749486652977412,1712,Specifier/ Influencer,Enterprise,,1.0,,1.0,business development,91,Quotation or Purchase Consultation,oled signage,Transparent OLED Signage,,/ HERMOSILLO / Mexico,director,LGEMS,3 months ~ 6 months,0,1,0.0030792876608617,0.0645661157024793,corporate / office,Engineering,188,0
 4306,0.25,/ NEW DELHI / India,AS,,47466,End Customer,Enterprise,19.0,,,,,86,Quotation or Purchase Consultation,multi-split,,,/ NEW DELHI / India,none,LGEIL,,0,0,,,,,9,1
 18400,0.0,/  / Peru,ID,0.0327868852459016,28290,,Enterprise,,,,,education,3,,,,,/  / Peru,none,LGEPR,,0,0,0.0005719551277132,0.048629531388152,education,Higher Education (College & University),258,0
 10498,1.0,/ Pune / India,ID,0.0575342465753424,20652,End Customer,Enterprise,,1.0,,1.0,consulting,23,Quotation or Purchase Consultation,one:quick series,One:Quick works,55CT5WJ,/ Pune / India,director,LGEIL,less than 3 months,1,0,0.0030792876608617,0.0645661157024793,corporate / office,Engineering,148,1
@@ -2586,7 +2586,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 11259,1.0,/ Ranchi / India,ID,,24393,,Enterprise,1.0,,,,,18,Technical Consultation,interactive signage,,,/ Ranchi / India,trainee,LGEIL,9 months ~ 1 year,0,0,,,,,174,0
 8456,1.0,/ 122505 / India,AS,0.4615384615384615,38658,End Customer,SMB,,,,,engineering,76,Quotation or Purchase Consultation,multi-split,,,/ 122505 / India,manager,LGEIL,less than 3 months,0,0,6.044033666058328e-05,0.1285714285714285,hospital & health care,Hospital,9,1
 7145,1.0,/Paranaque/Philippines,AS,,35824,Specifier/ Influencer,Enterprise,0.0,,,,consulting,8,Quotation or Purchase Consultation,vrf,,,/Paranaque/Philippines,associate/analyst,LGEPH,6 months ~ 9 months,0,0,,,,,0,1
-9640,1.0,/ Bangkok / Thailand,AS,,46671,End Customer,SMB,,,,,others,44,Services,etc.,,,/ Bangkok / Thailand,ceo/founder,LGETH,less than 3 months,0,0,1.2765902883450302e-05,,transportation,Others,736,1
+9640,1.0,/ Bangkok / Thailand,AS,,46671,End Customer,SMB,,,,,others,44,Services,etc.,,,/ Bangkok / Thailand,ceo/founder,LGETH,less than 3 months,0,0,1.2765902883450302e-05,,transportation,Others,736,0
 20553,1.0,/ São Paulo / SP / Brazil,AS,,7785,Specifier/ Influencer,SMB,,,,,administrative,57,Quotation or Purchase Consultation,vrf,,,/ São Paulo / SP / Brazil,associate/analyst,LGESP,more than a year,0,0,0.0007167734380046,,hotel & accommodation,,97,0
 18379,0.0,/  / Peru,ID,0.0327868852459016,938,,Enterprise,,,,,education,3,,,,,/  / Peru,none,LGEPR,,0,0,0.0005719551277132,0.048629531388152,education,Institute & Academy,258,0
 15999,0.0,/  / Canada,AS,,19873,,SMB,,,,,,3,,vrf,,,/  / Canada,none,LGECI,,0,0,,,,,142,1
@@ -2800,7 +2800,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 8927,0.5,/ College Station / United States,ID,0.1186440677966101,26412,End Customer,Enterprise,,,,,others,89,Quotation or Purchase Consultation,standard signage,LT340C Series,43LT340C (NA),/ College Station / United States,none,LGEUS,,1,1,0.0011827288932506,0.0498402555910543,retail,Restaurant,206,1
 1608,1.0,/ Longowal / India,ID,,36341,,Enterprise,,,,,business development,9,Quotation or Purchase Consultation,interactive signage,,,/ Longowal / India,ceo/founder,LGEIL,less than 3 months,0,0,,,,,174,0
 3174,0.25,//United States,ID,,29693,,SMB,,,,,,136,Quotation or Purchase Consultation,,,,//United States,none,LGEUS,,0,0,,,,,360,1
-13293,0.25,/ JAKARTA / Indonesia,AS,,27731,Specifier/ Influencer,SMB,0.0,,,,engineering,3,,,,,/ JAKARTA / Indonesia,c-level executive,LGEIN,,0,0,,,,,670,1
+13293,0.25,/ JAKARTA / Indonesia,AS,,27731,Specifier/ Influencer,SMB,0.0,,,,engineering,3,,,,,/ JAKARTA / Indonesia,c-level executive,LGEIN,,0,0,,,,,670,0
 5096,0.5,/Teresina/Brazil,AS,,15095,,Enterprise,,,,,administrative,3,Quotation or Purchase Consultation,,,,/Teresina/Brazil,others,LGESP,,0,0,,,,,97,0
 10292,1.0,/ Ciudad de México  / Mexico,AS,0.0039370078740157,10340,Specifier/ Influencer,Enterprise,,,,,program and project management,21,Quotation or Purchase Consultation,vrf,,,/ Ciudad de México  / Mexico,ceo/founder,LGEMS,less than 3 months,0,0,0.0030792876608617,0.0268456375838926,corporate / office,Construction,42,0
 10982,0.25,/  / Hong Kong,ID,0.0843373493975903,39669,,SMB,,1.0,,1.0,sales,3,,,,,/  / Hong Kong,manager,LGEHK,,0,0,0.0030792876608617,0.0645661157024793,corporate / office,IT/Software,195,1
@@ -2809,7 +2809,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 5013,0.25,/ São Paulo / Brazil,AS,,5101,,Enterprise,,,,,,3,,multi-split,,,/ São Paulo / Brazil,director,LGESP,,0,0,,,,,97,0
 13132,0.75,/ Rancagua / Chile,AS,,9069,Specifier/ Influencer,Enterprise,,,,,engineering,3,,chiller,,,/ Rancagua / Chile,ceo/founder,LGECL,9 months ~ 1 year,0,0,,,,,728,0
 3035,0.75,/Navi Mumbai/India,ID,,6656,End Customer,SMB,,,,,other,139,Quotation or Purchase Consultation,interactive signage,,,/Navi Mumbai/India,none,LGEIL,less than 3 months,0,0,,,,,145,1
-10850,0.0,Rua Nossa Senhora de Lourdes   /  / Brazil,ID,0.0749486652977412,45907,Channel Partner,SMB,,1.0,,1.0,sales,3,,,,,Rua Nossa Senhora de Lourdes   /  / Brazil,none,LGESP,,0,0,0.0030792876608617,0.0645661157024793,corporate / office,Others,317,1
+10850,0.0,Rua Nossa Senhora de Lourdes   /  / Brazil,ID,0.0749486652977412,45907,Channel Partner,SMB,,1.0,,1.0,sales,3,,,,,Rua Nossa Senhora de Lourdes   /  / Brazil,none,LGESP,,0,0,0.0030792876608617,0.0645661157024793,corporate / office,Others,317,0
 7337,0.75,/ Jakarta Utara  / Indonesia,AS,,33962,Specifier/ Influencer,Enterprise,,,,,engineering,2,,vrf,,,/ Jakarta Utara  / Indonesia,trainee,LGEIN,more than a year,0,0,,,,,723,0
 1679,1.0,/ Mumbai / India,ID,,44157,,Enterprise,,,,,engineering,27,Quotation or Purchase Consultation,interactive signage,,,/ Mumbai / India,ceo/founder,LGEIL,more than a year,0,0,,,,,145,1
 16510,0.25,"via Carlo Buttarelli, 6   / Roma / Italy",AS,,14127,Channel Partner,SMB,25.0,,,,product management,3,,vrf,,,"via Carlo Buttarelli, 6   / Roma / Italy",director,LGEIS,,0,0,,,,,341,0
@@ -2833,7 +2833,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 19758,1.0,/Ciudad de Mëxico/Mexico,ID,0.0732484076433121,15879,End Customer,SMB,,,,,engineering,279,Others,standard signage,UH7F Series,65UH7F-B,/Ciudad de Mëxico/Mexico,director,LGEMS,less than 3 months,1,1,0.0011827288932506,0.0498402555910543,retail,Other Stores,203,1
 6019,0.5,/ Bauru / Brazil,AS,,26907,,Enterprise,,,,,others,3,Quotation or Purchase Consultation,multi-split,,,/ Bauru / Brazil,others,LGESP,,0,0,,,,,97,0
 9916,0.25,Cloud IT / Arlington / United States,IT,,6465,End Customer,SMB,,,,,,23,Quotation or Purchase Consultation,,,,Cloud IT / Arlington / United States,none,LGEUS,,0,0,1.2765902883450302e-05,,transportation,Others,435,0
-4206,0.25,/ Delhi / India,AS,,47466,End Customer,Enterprise,19.0,,,,,73,Quotation or Purchase Consultation,multi-split,,,/ Delhi / India,none,LGEIL,,0,0,,,,,608,1
+4206,0.25,/ Delhi / India,AS,,47466,End Customer,Enterprise,19.0,,,,,73,Quotation or Purchase Consultation,multi-split,,,/ Delhi / India,none,LGEIL,,0,0,,,,,608,0
 4065,0.5,/Batangas/Philippines,AS,,22433,Specifier/ Influencer,Enterprise,0.0,,,,engineering,3,Quotation or Purchase Consultation,chiller,,,/Batangas/Philippines,entry level,LGEPH,,0,0,,,,,29,1
 19937,1.0,/  / Mexico,ID,0.0732484076433121,45741,End Customer,SMB,,,,,administrative,3,Quotation or Purchase Consultation,,,,/  / Mexico,manager,LGEMS,6 months ~ 9 months,1,0,0.0011827288932506,0.0498402555910543,retail,Fashion,189,0
 9394,1.0,/Orlando/United States,ID,,28425,End Customer,Enterprise,,,,,engineering,78,Quotation or Purchase Consultation,interactive signage,TR3DJ Series,65TR3DJ,/Orlando/United States,associate/analyst,LGEUS,less than 3 months,0,0,0.0002153634176709,0.0609243697478991,factory,Manufacturing Factory / Plant,360,1
@@ -3514,7 +3514,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 19619,1.0,/ São Paulo / Brazil,ID,0.0732484076433121,37257,End Customer,SMB,,,,,marketing,125,Quotation or Purchase Consultation,webos,,,/ São Paulo / Brazil,others,LGESP,less than 3 months,1,0,0.0011827288932506,0.0498402555910543,retail,Fashion,279,1
 17889,1.0,/ Espinar  / Peru,ID,0.0327868852459016,10041,End Customer,Enterprise,,,,,administrative,99,Quotation or Purchase Consultation,interactive signage,TR3DJ Series,86TR3DJ,/ Espinar  / Peru,manager,LGEPR,less than 3 months,1,0,0.0005719551277132,0.048629531388152,education,Others,190,1
 16723,0.25,VIALE VOLTURNO 61/A   / PARMA  / Italy,AS,,27480,End Customer,Enterprise,,,,,,3,,vrf,,,VIALE VOLTURNO 61/A   / PARMA  / Italy,others,LGEIS,,0,0,,,,,341,0
-17463,0.75,/dolnosląskie/Poland,IT,,31794,End Customer,SMB,,,,,other,424,Quotation or Purchase Consultation,monitor,,,/dolnosląskie/Poland,none,LGEPL,less than 3 months,0,0,,,,,800,0
+17463,0.75,/dolnosląskie/Poland,IT,,31794,End Customer,SMB,,,,,other,424,Quotation or Purchase Consultation,monitor,,,/dolnosląskie/Poland,none,LGEPL,less than 3 months,0,0,,,,,800,1
 9068,1.0,/  / U.A.E,ID,0.0491803278688524,23898,Channel Partner,Enterprise,,,,,arts and design,104,Quotation or Purchase Consultation,video wall signage,"55"" 700 nits FHD Slim Bezel Video Wall",55VH7J-H,/  / U.A.E,manager,LGEGF,less than 3 months,0,1,0.0011827288932506,0.0498402555910543,retail,Real-Estate Agency,308,1
 20339,1.0,/ PORTO SEGURO BAHIA / Brazil,ID,0.1241217798594847,45220,End Customer,SMB,,1.0,,1.0,administrative,68,Quotation or Purchase Consultation,oled signage,OLED Pro Monitor,65EP5G,/ PORTO SEGURO BAHIA / Brazil,partner,LGESP,less than 3 months,1,0,0.0007167734380046,0.071345029239766,hotel & accommodation,Hotel,572,1
 19495,0.0,/  / Peru,ID,0.0544217687074829,37585,,SMB,0.0,,,,education,3,,,,,/  / Peru,none,LGEPR,,0,0,9.65915660650443e-05,0.0794117647058823,government department,General Government Office,258,0
@@ -3658,7 +3658,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 16760,0.25,Via Squero 12/1   / Noventa Padovana / Italy,AS,,33003,Specifier/ Influencer,SMB,,,,,consulting,3,,vrf,,,Via Squero 12/1   / Noventa Padovana / Italy,others,LGEIS,,0,0,,,,,341,0
 11090,1.0,/ Santiago / Chile,IT,0.0446428571428571,13912,End Customer,Enterprise,,,1.0,1.0,healthcare services,314,Quotation or Purchase Consultation,monitor,,,/ Santiago / Chile,ceo/founder,LGECL,3 months ~ 6 months,1,0,0.0030792876608617,,corporate / office,Healthcare,982,1
 17073,1.0,/ NSW / Australia,AS,,11276,End Customer,Enterprise,115.0,,,,others,3,Quotation or Purchase Consultation,vrf,,,/ NSW / Australia,others,LGEAP,less than 3 months,0,0,,,,,138,1
-17748,1.0,/  Bad Homburg / Germany,IT,,44463,Channel Partner,SMB,,,,,,453,Quotation or Purchase Consultation,medical display,Clinical Review Monitors,,/  Bad Homburg / Germany,others,LGEDG,3 months ~ 6 months,0,0,0.0005432224318428,,special purpose,,838,1
+17748,1.0,/  Bad Homburg / Germany,IT,,44463,Channel Partner,SMB,,,,,,453,Quotation or Purchase Consultation,medical display,Clinical Review Monitors,,/  Bad Homburg / Germany,others,LGEDG,3 months ~ 6 months,0,0,0.0005432224318428,,special purpose,,838,0
 18079,0.25,/  / Vietnam,ID,0.2142857142857142,31529,,Enterprise,,,,,education,3,,interactive signage,,,/  / Vietnam,c-level executive,LGEVH,,0,0,0.0005719551277132,0.048629531388152,education,,324,0
 12431,0.75,/ Campo Grande / Brazil,AS,,10412,End Customer,Enterprise,,,,,operations,3,,vrf,,,/ Campo Grande / Brazil,director,LGESP,less than 3 months,0,0,,,,,97,0
 2128,1.0,/ Maharashtra / India,ID,,12364,,Enterprise,,,,,administrative,16,Quotation or Purchase Consultation,interactive signage,,,/ Maharashtra / India,trainee,LGEIL,less than 3 months,0,0,,,,,174,0
@@ -5176,7 +5176,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 12061,0.5,/  / United States,ID,,11480,Specifier/ Influencer,SMB,,,,,,3,Quotation or Purchase Consultation,,,,/  / United States,none,LGEUS,more than a year,0,0,,,,,194,0
 5169,0.5,/Goiânia/Brazil,AS,,40525,,Enterprise,,,,,arts and design,3,Quotation or Purchase Consultation,,,,/Goiânia/Brazil,others,LGESP,,0,0,,,,,97,0
 8,1.0,/ cairo / Egypt,AS,0.0408163265306122,17417,Specifier/ Influencer,SMB,,,,,program and project management,20,Product Information,vrf,,,/ cairo / Egypt,ceo/founder,LGEEG,less than 3 months,0,0,0.0030792876608617,0.0268456375838926,corporate / office,,51,0
-11501,1.0,/ Bünde / Germany,ID,,12356,Channel Partner,SMB,1.0,,,,arts and design,321,Quotation or Purchase Consultation,standard signage,UL3G Series,43UL3G-B,/ Bünde / Germany,others,LGEDG,3 months ~ 6 months,0,0,,,,,326,0
+11501,1.0,/ Bünde / Germany,ID,,12356,Channel Partner,SMB,1.0,,,,arts and design,321,Quotation or Purchase Consultation,standard signage,UL3G Series,43UL3G-B,/ Bünde / Germany,others,LGEDG,3 months ~ 6 months,0,0,,,,,326,1
 7980,0.25,General / Palatine / United States,IT,,47466,Solution Eco-Partner,Enterprise,0.0,,,,,157,Quotation or Purchase Consultation,,,,General / Palatine / United States,none,LGEUS,,0,0,,,,,375,1
 1381,1.0,/ Delhi / India,ID,,22584,,Enterprise,,,,,education,93,Quotation or Purchase Consultation,interactive signage,,,/ Delhi / India,director,LGEIL,less than 3 months,0,0,,,,,356,0
 12242,0.75,/ Antofagasta / Chile,AS,,20430,Specifier/ Influencer,SMB,,,,,others,3,,vrf,,,/ Antofagasta / Chile,ceo/founder,LGECL,6 months ~ 9 months,0,0,,,,,728,0
@@ -5264,7 +5264,7 @@ id,bant_submit,customer_country,business_unit,com_reg_ver_win_rate,customer_idx,
 15236,0.5,/ Barranquilla / Colombia,AS,,47466,End Customer,Enterprise,16.0,,,,,81,Quotation or Purchase Consultation,multi-split,,,/ Barranquilla / Colombia,none,LGECB,less than 3 months,0,0,,,,,39,0
 3832,0.75,/ Nizwa / Oman,AS,,5599,Specifier/ Influencer,Enterprise,,,,,engineering,12,,single-split,,,/ Nizwa / Oman,associate/analyst,LGEGF,less than 3 months,0,0,,,,,727,0
 9120,1.0,/ Mumbi / India,AS,0.0289855072463768,6034,End Customer,SMB,,,,,purchasing,94,Quotation or Purchase Consultation,multi-split,,,/ Mumbi / India,manager,LGEIL,less than 3 months,1,0,0.0011827288932506,0.0115830115830115,retail,,90,0
-4179,0.25,/ Bengaluru / India,AS,,47466,End Customer,Enterprise,19.0,,,,,55,Quotation or Purchase Consultation,multi-split,,,/ Bengaluru / India,none,LGEIL,,0,0,,,,,30,0
+4179,0.25,/ Bengaluru / India,AS,,47466,End Customer,Enterprise,19.0,,,,,55,Quotation or Purchase Consultation,multi-split,,,/ Bengaluru / India,none,LGEIL,,0,0,,,,,30,1
 13855,0.5,/São Paulo/Brazil,AS,,40292,,Enterprise,10.0,,,,sales,7,Quotation or Purchase Consultation,,,,/São Paulo/Brazil,associate/analyst,LGESP,,0,0,,,,,97,0
 7979,0.25,General /  / United States,IT,,47466,,Enterprise,0.0,,,,,157,Quotation or Purchase Consultation,,,,General /  / United States,none,LGEUS,,0,0,,,,,438,1
 12887,0.75,/ OURO BRANCO / Brazil,AS,,46227,Specifier/ Influencer,Enterprise,,,,,entrepreneurship,39,,multi-split,,,/ OURO BRANCO / Brazil,manager,LGESP,less than 3 months,0,0,,,,,97,0
